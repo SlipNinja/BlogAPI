@@ -1,0 +1,26 @@
+[
+	{
+		"id": 1,
+		"title": "Bienvenue sur le blog",
+		"content": "Ceci est le tout premier article. Merci de votre visite !",
+		"author": "Alice"
+	},
+	{
+		"id": 2,
+		"title": "Node.js pour les débutants",
+		"content": "Node.js permet d'exécuter du JavaScript côté serveur. C'est simple et rapide à prendre en main.",
+		"author": "Bob"
+	},
+	{
+		"id": 3,
+		"title": "Express simplifie vos APIs",
+		"content": "Le framework Express permet de créer rapidement des routes et des middlewares pour vos applications web.",
+		"author": "Charlie"
+	},
+	{
+		"id": 4,
+		"title": "Express simplifie la vie",
+		"content": "Le framework Express permet de créer rapidement des routes et des middlewares pour vos applications web.",
+		"author": "Bibi"
+	}
+]

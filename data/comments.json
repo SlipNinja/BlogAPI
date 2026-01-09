@@ -1,0 +1,6 @@
+[
+	{ "id": 1, "postId": 1, "author": "David", "content": "Félicitations pour le lancement !" },
+	{ "id": 2, "postId": 2, "author": "Emma", "content": "Merci pour ces explications, c’est clair :)" },
+	{ "id": 3, "postId": 2, "author": "Frank", "content": "Je galérais avec Node, cet article m'a aidé !" },
+	{ "id": 4, "postId": 3, "author": "Grace", "content": "Est-ce que tu feras un article sur les routeurs ?" }
+]
